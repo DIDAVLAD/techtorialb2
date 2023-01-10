@@ -1,0 +1,12 @@
+number_of_cows = 35
+numbers_of_chikens = 23
+number -of_ducks =40
+
+legs_of_cows = 4
+legs_of-birds = 2
+
+total_cows_legs = number _of _cows * legs_of_cows
+total_duck_legs = number_of_ducks * legs_of_bird
+total_chiken_legs = number_of_chikens * legs_of_bird
+
+

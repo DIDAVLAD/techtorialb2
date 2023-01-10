@@ -1,0 +1,14 @@
+DAY 8
+
+Create a folder named functions and navigate to that directory.
+We will create  a functions.sh bash file.
+Then we will declare our first method in linux bash file.
+
+#Modify the bash file that will tell if the search of a pattern with the function was succesful or not?
+
+return keyword in function:
+It return exit status of a previous command.
+Exit status determines whether the command is succesful or not.
+There are 255 exit status code, however only exit status code 0 means succesful command.
+If the return keyword usede withoud an explicit value, then that function will return exit status code of a command that right befor the return keyword.
+Whwn the rewturn statement or keyword is used with an 

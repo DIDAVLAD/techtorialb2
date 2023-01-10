@@ -1,0 +1,103 @@
+DAY 6 
+
+
+
+len () 
+
+legth function is used to learn total numbers of charachters in the string .
+
+str = "techtorial"
+
+print(length(str)) # ->10 
+
+print(type(len(str))) # <class 'int' >
+
+
+# How do we access charachters from the string ?
+                                                               Index numbers are RED      Order numbers are BLUE 
+str = "Python
+# I want to learn 4th letter from the string .
+# To access the letter we need to use index numbers,
+# and index numbers  start from 0.
+
+I nedd to use index number 3.
+
+What is the last index number in the str? 
+
+Last index number is 5.
+leng of the string is 6 
+
+What do you think the relation between length of the 
+string and the last index number of the string? 
+
+Last index number of the every string is the length of the string -1 .
+
+
+What is the syntax used to access letters from the string?
+
+str = " python"
+
+Accesing 3rd elements from the string 
+Which index number should I use ?
+
+2
+
+print(str[2]) # t 
+
+
+
+
+
+text = misteryValue 
+
+# From this given string print the last letter.
+
+# To be able to get last letter , I need to use last index number 
+
+What is the last index number?
+last_index = len(text)-1 # last index number 
+
+print(text[last_index]) #last letter from the giving string .
+
+What is the data type of a 
+integer 
+a=765
+print(a[2]) ->integer object is not subscriptable
+
+You can cast integer value to string and you can apply index numbers to get certain charachters.
+
+# to cast any other data type to strimg type we use string function.
+str()
+
+a = str(a) 
+print(a[2]) -> 5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

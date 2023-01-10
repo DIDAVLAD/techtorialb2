@@ -1,0 +1,66 @@
+Linux Bash -2
+
+Note:To create comments in bash file we can use # sign.
+The # sign in the first line is not a comment
+
+
+Note: Every bash file can take as many arguments as possible .The numbers $1, $2, $3 etc. are used to access those command lime arguments .
+
+How Can I learn how many arguments  are passed in the bash file?
+********
+         $#
+            *******
+
+Learning all the arguments that passed in the bash file
+********
+         $@
+            *******
+Note:Array is similar to list ,however there are some 
+diffrences.
+The array size is fixed, list size is dynamic.
+
+How cn you access all the command line arguments as an 
+array in a bash file?
+ ********
+         $@
+            *******           
+
+Read functin in bash works same as input function in python file.
+
+Note:sleep command is used to pause executin foe a certain time that is 
+ditermined by the number placed after the sleep command.
+sleep 3, sleep 5, sleep 1 etc.
+
+TASK: Create a bash file for greeting a student and learning some information ,
+such as their name, address, referral .
+And then write this infoemation in another text file .So at the end this whenever this bash 
+script is ran it will add new student information to the file without interacting woth existing 
+student information.
+
+
+
+# First step that I would like to check if the directory is provided 
+
+if [ -z "$1"] ; then
+    echo "No directory is given"
+    return 1
+else 
+   3 I have to check if the given directory exist 
+   if [ -d "$!" ] ; then
+      count _of_ordinary_file=0
+      count_of_directory=0
+      count_of_block_specil=0
+      count_of_symbolic_link=0
+      
+
+     
+
+
+
+
+
+
+
+
+
+

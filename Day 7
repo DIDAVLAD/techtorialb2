@@ -1,0 +1,47 @@
+Day 7
+
+
+String methods
+
+None of the string method will change the actual value of the string 
+because string is an immutable data type.
+
+
+upper () -> return type of this method is string 
+s= "python"
+print(s.upper()) -> PYTHON
+print(s) -> python
+
+
+lower() -> retuen type for this method is string
+
+s = "PYTHON"
+print(s.lower()) -> python
+print(S) -> PYTHON
+
+swapcase() -> return type of this method is string
+s = "pythoN"
+print(s.swapcase()) -> PYTHOn 
+print(S) -> pythoN
+
+capitalize() -> it will only make first letter upper case, 
+return type of this method is also string.
+s = "python"
+print(s.capitalize()) -> Python 
+print(S) -> python
+
+
+replace method
+replace() -> will replace character in the string with new character.
+return type of repalce method will  be a string 
+
+
+
+
+
+
+
+
+
+
+

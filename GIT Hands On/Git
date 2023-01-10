@@ -1,0 +1,51 @@
+Git
+
+What is the diffrence between git and github.
+
+Git is a version control system that is used to collaborate amongst developers.
+
+GitHub is a platform that allows you to create repositories and share your code 
+using giy version  control system.
+
+DIDAVLAD: my user name.
+email: psilovemyskin@gamil.com ->my email that i sighn up to the github
+
+What is a staging area in Git?
+
+It is a temporary holding area for files . It is not inthe remote 
+location.It is still in our local.
+
+
+
+
+
+
+
+
+#Let's configure our user name and email for git in our local machine.
+to configure my user name
+git config--global user.name "DIDAVLAD"
+
+to configure my email
+git confif--global user.email "psilovemyskin@gmail.com "
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
